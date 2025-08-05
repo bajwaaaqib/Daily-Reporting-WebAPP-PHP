@@ -1,0 +1,838 @@
+[11-Feb-2025 00:47:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:48:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:48:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:48:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:49:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:49:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:49:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:55:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:56:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:56:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:59:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 00:59:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:14:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:17:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:18:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:19:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:19:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:20:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:20:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:20:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:21:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:22:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:23:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:23:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 01:32:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 22
+[11-Feb-2025 01:44:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 02:11:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 19
+[11-Feb-2025 02:54:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 30
+[11-Feb-2025 02:54:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php on line 83
+[11-Feb-2025 02:55:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php on line 83
+[11-Feb-2025 02:55:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php on line 83
+[11-Feb-2025 02:55:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php on line 83
+[11-Feb-2025 02:56:35 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 30
+[11-Feb-2025 02:56:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:56:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:57:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:57:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:57:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:57:44 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 30
+[11-Feb-2025 02:57:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:57:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:57:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:57:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:57:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:58:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:58:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:58:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:58:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:58:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 14
+[11-Feb-2025 02:58:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/admin_dashboard.php on line 83
+[11-Feb-2025 03:04:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:04:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:04:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:04:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:05:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/fetch_report.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/fetch_report.php on line 16
+[11-Feb-2025 03:05:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/fetch_report.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/fetch_report.php on line 16
+[11-Feb-2025 03:06:48 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:06:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:06:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:06:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:06:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:06:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 17
+[11-Feb-2025 03:08:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home1/marcoluc/public_html/ardperfumes/reporting/edit_employee.php:209
+Stack trace:
+#0 {main}
+  thrown in /home1/marcoluc/public_html/ardperfumes/reporting/edit_employee.php on line 209
+[11-Feb-2025 03:18:13 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:18:20 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:22:07 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:22:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:25:36 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:25:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:26:04 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:29:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:29:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:40:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:43:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:44:35 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:44:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 48
+[11-Feb-2025 03:45:41 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 49
+[11-Feb-2025 03:47:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 49
+[11-Feb-2025 03:48:53 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 49
+[11-Feb-2025 03:54:57 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 50
+[11-Feb-2025 03:55:23 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 50
+[11-Feb-2025 04:00:40 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 49
+[11-Feb-2025 04:02:24 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 49
+[11-Feb-2025 04:02:31 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 49
+[11-Feb-2025 04:05:55 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/submit_report.php on line 49
+[11-Feb-2025 04:11:58 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/index.php on line 30
+[11-Feb-2025 04:14:19 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/edit_employee.php on line 44
+[12-Feb-2025 08:13:18 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:13:18 Asia/Dubai] Current Time: 08:13
+[12-Feb-2025 08:13:32 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:13:32 Asia/Dubai] Current Time: 08:13
+[12-Feb-2025 08:13:32 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:13:32 Asia/Dubai] Current Time: 08:13
+[12-Feb-2025 08:13:41 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:13:41 Asia/Dubai] Current Time: 08:13
+[12-Feb-2025 08:13:42 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:13:42 Asia/Dubai] Current Time: 08:13
+[12-Feb-2025 08:16:07 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:16:07 Asia/Dubai] Current Time: 08:16
+[12-Feb-2025 08:20:09 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:20:09 Asia/Dubai] Current Time: 08:20
+[12-Feb-2025 08:21:39 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:21:39 Asia/Dubai] Current Time: 08:21
+[12-Feb-2025 08:21:48 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:21:48 Asia/Dubai] Current Time: 08:21
+[12-Feb-2025 08:21:49 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:21:49 Asia/Dubai] Current Time: 08:21
+[12-Feb-2025 08:23:09 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:23:09 Asia/Dubai] Current Time: 08:23
+[12-Feb-2025 08:23:10 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:23:10 Asia/Dubai] Current Time: 08:23
+[12-Feb-2025 08:23:35 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:23:35 Asia/Dubai] Current Time: 08:23
+[12-Feb-2025 08:23:39 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:23:39 Asia/Dubai] Current Time: 08:23
+[12-Feb-2025 08:33:09 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:33:09 Asia/Dubai] Current Time: 08:33
+[12-Feb-2025 08:33:09 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:33:09 Asia/Dubai] Current Time: 08:33
+[12-Feb-2025 08:33:19 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:33:19 Asia/Dubai] Current Time: 08:33
+[12-Feb-2025 08:33:19 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:33:19 Asia/Dubai] Current Time: 08:33
+[12-Feb-2025 08:33:40 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:33:40 Asia/Dubai] Current Time: 08:33
+[12-Feb-2025 08:33:41 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:33:41 Asia/Dubai] Current Time: 08:33
+[12-Feb-2025 08:42:12 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:42:12 Asia/Dubai] Current Time: 08:42
+[12-Feb-2025 08:45:30 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:45:30 Asia/Dubai] Current Time: 08:45
+[12-Feb-2025 08:46:11 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:11 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:12 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:12 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:13 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:13 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:13 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:13 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:14 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:14 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:15 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:15 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:15 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:15 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:16 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:16 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:16 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:16 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:17 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:17 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:17 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:17 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:18 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:18 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:19 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:19 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:19 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:19 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:19 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:19 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:20 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:20 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:21 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:21 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:21 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:21 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:22 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:22 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:22 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:22 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:23 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:23 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:23 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:23 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:24 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:24 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:24 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:24 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:25 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:25 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:25 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:25 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:25 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:25 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:26 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:26 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:26 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:26 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:27 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:27 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:28 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:28 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:28 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:28 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:28 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:28 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:29 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:29 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:29 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:29 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:30 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:30 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:30 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:30 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:31 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:31 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:31 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:31 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:32 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:32 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:32 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:32 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:33 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:33 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:34 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:34 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:34 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:34 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:35 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:35 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:35 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:35 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:36 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:36 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:36 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:36 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:37 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:37 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:37 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:37 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:38 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:38 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:38 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:38 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:39 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:39 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:39 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:39 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:40 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:40 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:40 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:40 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:41 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:41 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:41 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:41 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:42 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:42 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:43 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:43 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:43 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:43 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:44 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:44 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:44 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:44 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:45 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:45 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:45 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:45 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:46 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:46 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:46 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:46 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:47 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:47 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:47 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:47 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:48 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:48 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:48 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:48 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:49 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:49 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:49 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:49 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:50 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:50 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:51 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:51 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:51 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:51 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:52 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:52 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:52 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:52 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:53 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:53 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:53 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:53 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:55 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:55 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:56 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:56 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:56 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:56 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:57 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:57 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:57 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:57 Asia/Dubai] Current Time: 08:46
+[12-Feb-2025 08:46:58 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:46:58 Asia/Dubai] Current Time: 08:46
+[11-Feb-2025 21:46:58 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:03 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:05 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:06 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:11 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:13 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:20 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:22 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:24 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:26 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:28 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:56 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:47:58 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:09 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:10 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:27 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:28 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:31 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:33 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:36 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:43 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[11-Feb-2025 21:48:46 America/Boise] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home1/marcoluc/public_html/ardperfumes/reporting/employee_dashboard.php on line 40
+[12-Feb-2025 08:49:19 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:49:19 Asia/Dubai] Current Time: 08:49
+[12-Feb-2025 08:50:18 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:50:18 Asia/Dubai] Current Time: 08:50
+[12-Feb-2025 08:52:42 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:52:42 Asia/Dubai] Current Time: 08:52
+[12-Feb-2025 08:52:43 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:52:43 Asia/Dubai] Current Time: 08:52
+[12-Feb-2025 08:52:48 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:52:48 Asia/Dubai] Current Time: 08:52
+[12-Feb-2025 08:52:49 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:52:49 Asia/Dubai] Current Time: 08:52
+[12-Feb-2025 08:54:03 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:54:03 Asia/Dubai] Current Time: 08:54
+[12-Feb-2025 08:54:10 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:54:10 Asia/Dubai] Current Time: 08:54
+[12-Feb-2025 08:54:10 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:54:10 Asia/Dubai] Current Time: 08:54
+[12-Feb-2025 08:57:06 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:57:06 Asia/Dubai] Current Time: 08:57 AM
+[12-Feb-2025 08:58:08 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:58:08 Asia/Dubai] Current Time: 08:58 AM
+[12-Feb-2025 08:59:30 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 08:59:30 Asia/Dubai] Current Time: 08:59 AM
+[12-Feb-2025 09:00:06 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:00:06 Asia/Dubai] Current Time: 09:00 AM
+[12-Feb-2025 09:01:33 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:01:33 Asia/Dubai] Current Time: 09:01 AM
+[12-Feb-2025 09:01:45 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:01:45 Asia/Dubai] Current Time: 09:01
+[12-Feb-2025 09:01:45 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:01:45 Asia/Dubai] Current Time: 09:01 AM
+[12-Feb-2025 09:03:05 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:03:05 Asia/Dubai] Current Time: 09:03 AM
+[12-Feb-2025 09:09:40 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:09:40 Asia/Dubai] Current Time: 09:09 AM
+[12-Feb-2025 09:10:41 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:10:41 Asia/Dubai] Current Time: 09:10 AM
+[12-Feb-2025 09:11:41 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:11:41 Asia/Dubai] Current Time: 09:11 AM
+[12-Feb-2025 09:12:42 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:12:42 Asia/Dubai] Current Time: 09:12 AM
+[12-Feb-2025 09:14:17 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:14:17 Asia/Dubai] Current Time: 09:14
+[12-Feb-2025 09:14:19 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:14:19 Asia/Dubai] Current Time: 09:14
+[12-Feb-2025 09:15:40 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:15:40 Asia/Dubai] Current Time: 09:15
+[12-Feb-2025 09:16:21 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:16:21 Asia/Dubai] Current Time: 09:16
+[12-Feb-2025 09:16:40 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:16:40 Asia/Dubai] Current Time: 09:16
+[12-Feb-2025 09:16:40 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:16:40 Asia/Dubai] Current Time: 09:16
+[12-Feb-2025 09:22:48 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:22:48 Asia/Dubai] Current Time: 09:22
+[12-Feb-2025 09:22:59 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:22:59 Asia/Dubai] Current Time: 09:22
+[12-Feb-2025 09:22:59 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:22:59 Asia/Dubai] Current Time: 09:22
+[12-Feb-2025 09:23:42 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:23:42 Asia/Dubai] Current Time: 09:23
+[12-Feb-2025 09:23:55 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:23:55 Asia/Dubai] Current Time: 09:23
+[12-Feb-2025 09:23:55 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:23:55 Asia/Dubai] Current Time: 09:23
+[12-Feb-2025 09:26:26 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:26:26 Asia/Dubai] Current Time: 09:26
+[12-Feb-2025 09:26:26 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:26:26 Asia/Dubai] Current Time: 09:26
+[12-Feb-2025 09:28:02 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:28:02 Asia/Dubai] Current Time: 09:28
+[12-Feb-2025 09:28:32 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:28:32 Asia/Dubai] Current Time: 09:28
+[12-Feb-2025 09:32:35 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:32:35 Asia/Dubai] Current Time: 09:32
+[12-Feb-2025 09:33:46 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:33:46 Asia/Dubai] Current Time: 09:33
+[12-Feb-2025 09:33:47 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:33:47 Asia/Dubai] Current Time: 09:33
+[12-Feb-2025 09:34:08 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:34:08 Asia/Dubai] Current Time: 09:34
+[12-Feb-2025 09:34:09 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:34:09 Asia/Dubai] Current Time: 09:34
+[12-Feb-2025 09:34:12 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:34:12 Asia/Dubai] Current Time: 09:34
+[12-Feb-2025 09:34:22 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:34:22 Asia/Dubai] Current Time: 09:34
+[12-Feb-2025 09:34:22 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:34:22 Asia/Dubai] Current Time: 09:34
+[12-Feb-2025 09:34:25 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:34:25 Asia/Dubai] Current Time: 09:34
+[12-Feb-2025 09:37:53 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:37:53 Asia/Dubai] Current Time: 09:37
+[12-Feb-2025 09:38:43 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:38:43 Asia/Dubai] Current Time: 09:38
+[12-Feb-2025 09:39:04 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:39:04 Asia/Dubai] Current Time: 09:39
+[12-Feb-2025 09:39:40 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:39:40 Asia/Dubai] Current Time: 09:39
+[12-Feb-2025 09:40:01 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:40:01 Asia/Dubai] Current Time: 09:40
+[12-Feb-2025 09:40:01 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:40:01 Asia/Dubai] Current Time: 09:40
+[12-Feb-2025 09:40:06 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:40:06 Asia/Dubai] Current Time: 09:40
+[12-Feb-2025 09:49:58 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:49:58 Asia/Dubai] Current Time: 09:49
+[12-Feb-2025 09:50:06 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:50:06 Asia/Dubai] Current Time: 09:50
+[12-Feb-2025 09:50:09 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:50:09 Asia/Dubai] Current Time: 09:50
+[12-Feb-2025 09:50:36 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:50:36 Asia/Dubai] Current Time: 09:50
+[12-Feb-2025 09:50:37 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:50:37 Asia/Dubai] Current Time: 09:50
+[12-Feb-2025 09:50:44 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:50:44 Asia/Dubai] Current Time: 09:50
+[12-Feb-2025 09:50:56 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:50:56 Asia/Dubai] Current Time: 09:50
+[12-Feb-2025 09:50:57 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:50:57 Asia/Dubai] Current Time: 09:50
+[12-Feb-2025 09:51:01 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:51:01 Asia/Dubai] Current Time: 09:51
+[12-Feb-2025 09:56:10 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:56:10 Asia/Dubai] Current Time: 09:56
+[12-Feb-2025 09:56:29 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:56:29 Asia/Dubai] Current Time: 09:56
+[12-Feb-2025 09:56:30 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:56:30 Asia/Dubai] Current Time: 09:56
+[12-Feb-2025 09:57:30 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:57:30 Asia/Dubai] Current Time: 09:57
+[12-Feb-2025 09:57:31 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:57:31 Asia/Dubai] Current Time: 09:57
+[12-Feb-2025 09:58:47 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 09:58:47 Asia/Dubai] Current Time: 09:58
+[12-Feb-2025 10:04:46 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:04:46 Asia/Dubai] Current Time: 10:04
+[12-Feb-2025 10:04:55 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:04:55 Asia/Dubai] Current Time: 10:04
+[12-Feb-2025 10:06:20 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:06:20 Asia/Dubai] Current Time: 10:06
+[12-Feb-2025 10:09:39 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:09:39 Asia/Dubai] Current Time: 10:09
+[12-Feb-2025 10:13:17 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:13:17 Asia/Dubai] Current Time: 10:13
+[12-Feb-2025 10:18:47 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:18:47 Asia/Dubai] Current Time: 10:18
+[12-Feb-2025 10:18:57 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:18:57 Asia/Dubai] Current Time: 10:18
+[12-Feb-2025 10:19:24 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:19:24 Asia/Dubai] Current Time: 10:19
+[12-Feb-2025 10:19:31 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:19:31 Asia/Dubai] Current Time: 10:19
+[12-Feb-2025 10:20:29 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:20:29 Asia/Dubai] Current Time: 10:20
+[12-Feb-2025 10:20:47 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:20:47 Asia/Dubai] Current Time: 10:20
+[12-Feb-2025 10:45:41 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:45:41 Asia/Dubai] Current Time: 10:45
+[12-Feb-2025 10:56:46 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 10:56:46 Asia/Dubai] Current Time: 10:56
+[12-Feb-2025 11:00:44 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 11:00:44 Asia/Dubai] Current Time: 11:00
+[12-Feb-2025 11:03:46 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 11:03:46 Asia/Dubai] Current Time: 11:03
+[12-Feb-2025 11:04:13 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 11:04:13 Asia/Dubai] Current Time: 11:04
+[12-Feb-2025 00:19:22 America/Boise] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/marcoluc/public_html/ardperfumes/reporting/reset_password.php on line 7
+[12-Feb-2025 11:27:35 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 11:27:35 Asia/Dubai] Current Time: 11:27
+[12-Feb-2025 11:27:56 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 11:27:56 Asia/Dubai] Current Time: 11:27
+[12-Feb-2025 00:38:06 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 60
+[12-Feb-2025 00:38:10 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php:9) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 60
+[12-Feb-2025 00:38:14 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php:9) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 60
+[12-Feb-2025 11:43:51 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 11:43:51 Asia/Dubai] Current Time: 11:43
+[12-Feb-2025 11:57:09 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 11:57:09 Asia/Dubai] Current Time: 11:57
+[12-Feb-2025 12:23:28 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 12:23:28 Asia/Dubai] Current Time: 12:23
+[12-Feb-2025 12:29:01 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 12:29:01 Asia/Dubai] Current Time: 12:29
+[12-Feb-2025 12:34:17 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 12:34:17 Asia/Dubai] Current Time: 12:34
+[12-Feb-2025 12:37:04 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 12:37:04 Asia/Dubai] Current Time: 12:37
+[12-Feb-2025 12:54:12 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 12:54:12 Asia/Dubai] Current Time: 12:54
+[12-Feb-2025 12:55:08 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 12:55:08 Asia/Dubai] Current Time: 12:55
+[12-Feb-2025 13:00:36 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:00:36 Asia/Dubai] Current Time: 13:00
+[12-Feb-2025 13:05:01 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:05:01 Asia/Dubai] Current Time: 13:05
+[12-Feb-2025 02:15:45 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 02:15:49 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 02:16:27 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 02:16:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 02:16:37 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 02:16:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 02:17:33 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 13:18:34 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:18:34 Asia/Dubai] Current Time: 13:18
+[12-Feb-2025 13:30:01 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:30:01 Asia/Dubai] Current Time: 13:30
+[12-Feb-2025 02:39:42 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 02:39:46 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/marcoluc/public_html/ardperfumes/reporting/db.php:1) in /home1/marcoluc/public_html/ardperfumes/reporting/forgot_password.php on line 70
+[12-Feb-2025 13:41:30 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:41:30 Asia/Dubai] Current Time: 13:41
+[12-Feb-2025 13:56:50 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:56:50 Asia/Dubai] Current Time: 13:56
+[12-Feb-2025 13:57:08 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:57:08 Asia/Dubai] Current Time: 13:57
+[12-Feb-2025 13:57:35 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:57:35 Asia/Dubai] Current Time: 13:57
+[12-Feb-2025 13:57:51 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:57:51 Asia/Dubai] Current Time: 13:57
+[12-Feb-2025 13:57:51 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:57:51 Asia/Dubai] Current Time: 13:57
+[12-Feb-2025 13:58:07 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:58:07 Asia/Dubai] Current Time: 13:58
+[12-Feb-2025 13:58:10 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:58:10 Asia/Dubai] Current Time: 13:58
+[12-Feb-2025 13:58:14 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:58:14 Asia/Dubai] Current Time: 13:58
+[12-Feb-2025 13:58:33 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 13:58:33 Asia/Dubai] Current Time: 13:58
+[12-Feb-2025 14:00:12 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 14:00:12 Asia/Dubai] Current Time: 14:00
+[12-Feb-2025 14:01:04 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 14:01:04 Asia/Dubai] Current Time: 14:01
+[12-Feb-2025 14:06:27 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 14:06:27 Asia/Dubai] Current Time: 14:06
+[12-Feb-2025 14:23:26 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 14:23:26 Asia/Dubai] Current Time: 14:23
+[12-Feb-2025 14:24:09 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 14:24:09 Asia/Dubai] Current Time: 14:24
+[12-Feb-2025 14:27:58 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 14:27:58 Asia/Dubai] Current Time: 14:27
+[12-Feb-2025 14:31:38 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 14:31:38 Asia/Dubai] Current Time: 14:31
+[12-Feb-2025 14:31:58 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 14:31:58 Asia/Dubai] Current Time: 14:31
+[12-Feb-2025 15:47:52 Asia/Dubai] Current Date: 2025-02-12
+[12-Feb-2025 15:47:52 Asia/Dubai] Current Time: 15:47
+[13-Feb-2025 08:11:02 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:11:02 Asia/Dubai] Current Time: 08:11
+[13-Feb-2025 08:20:03 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:20:03 Asia/Dubai] Current Time: 08:20
+[13-Feb-2025 08:20:59 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:20:59 Asia/Dubai] Current Time: 08:20
+[13-Feb-2025 08:21:20 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:21:20 Asia/Dubai] Current Time: 08:21
+[13-Feb-2025 08:21:33 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:21:33 Asia/Dubai] Current Time: 08:21
+[13-Feb-2025 08:21:33 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:21:33 Asia/Dubai] Current Time: 08:21
+[13-Feb-2025 08:21:52 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:21:52 Asia/Dubai] Current Time: 08:21
+[13-Feb-2025 08:23:58 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:23:58 Asia/Dubai] Current Time: 08:23
+[13-Feb-2025 08:25:36 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 08:25:36 Asia/Dubai] Current Time: 08:25
+[13-Feb-2025 12:15:10 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 12:15:10 Asia/Dubai] Current Time: 12:15
+[13-Feb-2025 14:18:43 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 14:18:43 Asia/Dubai] Current Time: 14:18
+[13-Feb-2025 16:59:51 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 16:59:51 Asia/Dubai] Current Time: 16:59
+[13-Feb-2025 17:00:27 Asia/Dubai] Current Date: 2025-02-13
+[13-Feb-2025 17:00:27 Asia/Dubai] Current Time: 17:00
+[15-Feb-2025 12:09:58 Asia/Dubai] Current Date: 2025-02-15
+[15-Feb-2025 12:09:58 Asia/Dubai] Current Time: 12:09
+[06-Apr-2025 15:16:25 Asia/Dubai] Current Date: 2025-04-06
+[06-Apr-2025 15:16:25 Asia/Dubai] Current Time: 15:16
+[06-Apr-2025 15:17:11 Asia/Dubai] Current Date: 2025-04-06
+[06-Apr-2025 15:17:11 Asia/Dubai] Current Time: 15:17
+[06-Apr-2025 15:17:11 Asia/Dubai] Current Date: 2025-04-06
+[06-Apr-2025 15:17:11 Asia/Dubai] Current Time: 15:17
+[06-Apr-2025 15:17:53 Asia/Dubai] Current Date: 2025-04-06
+[06-Apr-2025 15:17:53 Asia/Dubai] Current Time: 15:17
+[06-Apr-2025 15:17:53 Asia/Dubai] Current Date: 2025-04-06
+[06-Apr-2025 15:17:53 Asia/Dubai] Current Time: 15:17
+[09-Apr-2025 10:19:40 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:19:40 Asia/Dubai] Current Time: 10:19
+[09-Apr-2025 10:22:07 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:22:07 Asia/Dubai] Current Time: 10:22
+[09-Apr-2025 10:22:36 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:22:36 Asia/Dubai] Current Time: 10:22
+[09-Apr-2025 10:22:55 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:22:55 Asia/Dubai] Current Time: 10:22
+[09-Apr-2025 10:22:56 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:22:56 Asia/Dubai] Current Time: 10:22
+[09-Apr-2025 10:23:08 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:23:08 Asia/Dubai] Current Time: 10:23
+[09-Apr-2025 10:24:27 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:24:27 Asia/Dubai] Current Time: 10:24
+[09-Apr-2025 10:24:28 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:24:28 Asia/Dubai] Current Time: 10:24
+[09-Apr-2025 10:24:42 Asia/Dubai] Current Date: 2025-04-09
+[09-Apr-2025 10:24:42 Asia/Dubai] Current Time: 10:24
+[21-Jun-2025 14:26:12 Asia/Dubai] Current Date: 2025-06-21
+[21-Jun-2025 14:26:12 Asia/Dubai] Current Time: 14:26
+[21-Jun-2025 14:27:41 Asia/Dubai] Current Date: 2025-06-21
+[21-Jun-2025 14:27:41 Asia/Dubai] Current Time: 14:27
+[21-Jun-2025 14:28:11 Asia/Dubai] Current Date: 2025-06-21
+[21-Jun-2025 14:28:11 Asia/Dubai] Current Time: 14:28
+[21-Jun-2025 14:28:11 Asia/Dubai] Current Date: 2025-06-21
+[21-Jun-2025 14:28:11 Asia/Dubai] Current Time: 14:28
+[21-Jun-2025 14:35:55 Asia/Dubai] Current Date: 2025-06-21
+[21-Jun-2025 14:35:55 Asia/Dubai] Current Time: 14:35
+[15-Jul-2025 10:30:10 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:30:10 Asia/Dubai] Current Time: 10:30
+[15-Jul-2025 10:30:47 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:30:47 Asia/Dubai] Current Time: 10:30
+[15-Jul-2025 10:31:03 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:31:03 Asia/Dubai] Current Time: 10:31
+[15-Jul-2025 10:31:14 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:31:14 Asia/Dubai] Current Time: 10:31
+[15-Jul-2025 10:31:17 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:31:17 Asia/Dubai] Current Time: 10:31
+[15-Jul-2025 10:31:18 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:31:18 Asia/Dubai] Current Time: 10:31
+[15-Jul-2025 10:31:22 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:31:22 Asia/Dubai] Current Time: 10:31
+[15-Jul-2025 10:31:23 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:31:23 Asia/Dubai] Current Time: 10:31
+[15-Jul-2025 10:31:33 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:31:33 Asia/Dubai] Current Time: 10:31
+[15-Jul-2025 10:31:33 Asia/Dubai] Current Date: 2025-07-15
+[15-Jul-2025 10:31:33 Asia/Dubai] Current Time: 10:31
